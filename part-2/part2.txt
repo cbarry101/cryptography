@@ -1,0 +1,5 @@
+Plain Text Key: abcdefghijklmnopqrstuvwxyz
+Cipher Text Key: neclpgqsozuwrb!dfmxkhatyjiv
+
+Cipher Phrase: O W!AP CMJDK!QMNDSJV
+Result: i love cryptography
